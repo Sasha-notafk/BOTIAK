@@ -1,0 +1,44 @@
+{
+    "dota": {
+        "heroes": [
+            { "en": "Abaddon", "ru": "Абаддон" }, { "en": "Alchemist", "ru": "Алхимик" }, { "en": "Ancient Apparition", "ru": "Аппарат" }, { "en": "Anti-Mage", "ru": "Антимаг" }, { "en": "Arc Warden", "ru": "Арк Варден" },
+            { "en": "Axe", "ru": "Акс" }, { "en": "Bane", "ru": "Бейн" }, { "en": "Batrider", "ru": "Бэтрайдер" }, { "en": "Beastmaster", "ru": "Бистмастер" }, { "en": "Bloodseeker", "ru": "Бладсикер" },
+            { "en": "Bounty Hunter", "ru": "Баунти Хантер" }, { "en": "Brewmaster", "ru": "Брюмастер" }, { "en": "Bristleback", "ru": "Бристлбэк" }, { "en": "Broodmother", "ru": "Бруда" }, { "en": "Centaur Warrunner", "ru": "Кентавр" },
+            { "en": "Chaos Knight", "ru": "Хаос Найт" }, { "en": "Chen", "ru": "Чен" }, { "en": "Clinkz", "ru": "Клинкз" }, { "en": "Clockwerk", "ru": "Клокверк" }, { "en": "Crystal Maiden", "ru": "ЦМ-ка" },
+            { "en": "Dark Seer", "ru": "Дарк Сир" }, { "en": "Dark Willow", "ru": "Вилоу" }, { "en": "Dawnbreaker", "ru": "Донбрейкер" }, { "en": "Dazzle", "ru": "Даззл" }, { "en": "Death Prophet", "ru": "Банша" },
+            { "en": "Disruptor", "ru": "Дисраптор" }, { "en": "Doom", "ru": "Дум" }, { "en": "Dragon Knight", "ru": "ДК" }, { "en": "Drow Ranger", "ru": "Дровка" }, { "en": "Earth Spirit", "ru": "Земеля" },
+            { "en": "Earthshaker", "ru": "Шейкер" }, { "en": "Elder Titan", "ru": "Титан" }, { "en": "Ember Spirit", "ru": "Эмбер" }, { "en": "Enigma", "ru": "Энигма" }, { "en": "Faceless Void", "ru": "Войд" },
+            { "en": "Grimstroke", "ru": "Гримстроук" }, { "en": "Hoodwink", "ru": "Белка" }, { "en": "Huskar", "ru": "Хускар" }, { "en": "Invoker", "ru": "Инвокер" }, { "en": "Io", "ru": "Виспо" },
+            { "en": "Jakiro", "ru": "Джакиро" }, { "en": "Juggernaut", "ru": "Джаггернаут" }, { "en": "Keeper of the Light", "ru": "Котл" }, { "en": "Kunkka", "ru": "Кункка" }, { "en": "Legion Commander", "ru": "Легионка" },
+            { "en": "Lina", "ru": "Лина" }, { "en": "Lion", "ru": "Лион" }, { "en": "Lone Druid", "ru": "Друид" }, { "en": "Luna", "ru": "Луна" }, { "en": "Lycan", "ru": "Ликан" }
+        ]
+    },
+    "brawl": {
+        "heroes": [
+            { "en": "Shelly", "ru": "Шелли" }, { "en": "Nita", "ru": "Нита" }, { "en": "Colt", "ru": "Кольт" }, { "en": "Bull", "ru": "Булл" }, { "en": "Brock", "ru": "Брок" },
+            { "en": "El Primo", "ru": "Эль Примо" }, { "en": "Barley", "ru": "Барли" }, { "en": "Poco", "ru": "Поко" }, { "en": "Rosa", "ru": "Роза" }, { "en": "Jessie", "ru": "Джесси" },
+            { "en": "Dynamike", "ru": "Динамайк" }, { "en": "Tick", "ru": "Тик" }, { "en": "8-Bit", "ru": "8-Бит" }, { "en": "Emz", "ru": "Эмз" }, { "en": "Stu", "ru": "Сту" },
+            { "en": "Piper", "ru": "Пайпер" }, { "en": "Pam", "ru": "Пэм" }, { "en": "Frank", "ru": "Фрэнк" }, { "en": "Bibi", "ru": "Биби" }, { "en": "Bea", "ru": "Беа" },
+            { "en": "Nani", "ru": "Нани" }, { "en": "Edgar", "ru": "Эдгар" }, { "en": "Griff", "ru": "Грифф" }, { "en": "Grom", "ru": "Гром" }, { "en": "Bonnie", "ru": "Бонни" },
+            { "en": "Mortis", "ru": "Мортис" }, { "en": "Tara", "ru": "Тара" }, { "en": "Gene", "ru": "Джин" }, { "en": "Max", "ru": "Макс" }, { "en": "Mr. P", "ru": "Мистер П." },
+            { "en": "Sprout", "ru": "Спраут" }, { "en": "Byron", "ru": "Байрон" }, { "en": "Squeak", "ru": "Скуик" }, { "en": "Spike", "ru": "Спайк" }, { "en": "Crow", "ru": "Ворон" },
+            { "en": "Leon", "ru": "Леон" }, { "en": "Sandy", "ru": "Сэнди" }, { "en": "Amber", "ru": "Амбер" }, { "en": "Meg", "ru": "Мег" }, { "en": "Gale", "ru": "Гейл" },
+            { "en": "Surge", "ru": "Вольт" }, { "en": "Colette", "ru": "Колетт" }, { "en": "Lou", "ru": "Лу" }, { "en": "Ruffs", "ru": "Гавс" }, { "en": "Belle", "ru": "Белль" },
+            { "en": "Buzz", "ru": "Базз" }, { "en": "Ash", "ru": "Эш" }, { "en": "Lola", "ru": "Лола" }, { "en": "Fang", "ru": "Фэнг" }, { "en": "Eve", "ru": "Ева" }
+        ]
+    },
+    "clash": {
+        "heroes": [
+            { "en": "Knight", "ru": "Рыцарь" }, { "en": "Archers", "ru": "Лучники" }, { "en": "Goblins", "ru": "Гоблины" }, { "en": "Giant", "ru": "Гигант" }, { "en": "P.E.K.K.A", "ru": "П.Е.К.К.А" },
+            { "en": "Mini P.E.K.K.A", "ru": "Мини П.Е.К.К.А" }, { "en": "Wall Breakers", "ru": "Стенобои" }, { "en": "Balloon", "ru": "Шар" }, { "en": "Wizard", "ru": "Маг" }, { "en": "Dragon", "ru": "Дракончик" },
+            { "en": "Musketeer", "ru": "Мушкетер" }, { "en": "Mini Dragon", "ru": "Маленький дракон" }, { "en": "Skeleton Army", "ru": "Армия скелетов" }, { "en": "Witch", "ru": "Ведьма" }, { "en": "Prince", "ru": "Принц" },
+            { "en": "Dark Prince", "ru": "Темный принц" }, { "en": "Baby Dragon", "ru": "Дракончик" }, { "en": "Golem", "ru": "Голем" }, { "en": "Ice Wizard", "ru": "Ледяной маг" }, { "en": "Miner", "ru": "Шахтер" },
+            { "en": "Princess", "ru": "Принцесса" }, { "en": "The Log", "ru": "Бревно" }, { "en": "Sparky", "ru": "Спарки" }, { "en": "Lava Hound", "ru": "Адская гончая" }, { "en": "Mega Knight", "ru": "Мегарыцарь" },
+            { "en": "Night Witch", "ru": "Ночная ведьма" }, { "en": "Magic Archer", "ru": "Магический лучник" }, { "en": "Ram Rider", "ru": "Всадница на баране" }, { "en": "Fisherman", "ru": "Рыбак" }, { "en": "Electro Giant", "ru": "Электрогигант" },
+            { "en": "Executioner", "ru": "Палач" }, { "en": "Bowler", "ru": "Вышибала" }, { "en": "Hunter", "ru": "Охотник" }, { "en": "Electro Wizard", "ru": "Электромаг" }, { "en": "Inferno Dragon", "ru": "Пламенный дракон" },
+            { "en": "Lumberjack", "ru": "Дровосек" }, { "en": "Graveyard", "ru": "Кладбище" }, { "en": "Royal Ghost", "ru": "Королевский призрак" }, { "en": "Bandit", "ru": "Бандитка" }, { "en": "Royal Hogs", "ru": "Королевские кабаны" },
+            { "en": "Battle Ram", "ru": "Боевой таран" }, { "en": "Dart Goblin", "ru": "Гоблин с дротиками" }, { "en": "Flying Machine", "ru": "Летающая машина" }, { "en": "Zappies", "ru": "Zappies" }, { "en": "Barbarian Barrel", "ru": "Варварская бочка" },
+            { "en": "Giant Skeleton", "ru": "Гигантский скелет" }, { "en": "Royal Giant", "ru": "Королевский гигант" }, { "en": "Hog Rider", "ru": "Всадник на кабане" }, { "en": "Valkyrie", "ru": "Валькирия" }, { "en": "Elite Barbarians", "ru": "Элитные варвары" }
+        ]
+    }
+}
